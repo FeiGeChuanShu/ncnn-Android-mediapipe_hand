@@ -1,11 +1,17 @@
 
 ## The mediapipe-hand ncnn Android demo  
 
-The demo of [Mediapipe Hand](https://google.github.io/mediapipe/solutions/hands)  infer by ncnn
+The demo of [Mediapipe Hand](https://google.github.io/mediapipe/solutions/hands)  infer by ncnn  
+Please enjoy the mediapipe hand on ncnn
 
 https://github.com/Tencent/ncnn
 https://github.com/nihui/opencv-mobile
-
+## palm model support:  
+1.palm-lite  
+2.palm-full  
+## pose model support:  
+1.hand-lite  
+2.hand-full  
 
 ## how to build and run
 ### step1
