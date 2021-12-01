@@ -4,7 +4,7 @@
 
 You can try this APK demo https://pan.baidu.com/s/1ArAMH7uAic0cQJgOn-P-RQ pwd: jnrw  
 
-https://github.com/Tencent/ncnn
+https://github.com/Tencent/ncnn  
 https://github.com/nihui/opencv-mobile
 ## palm model support:  
 1.palm-lite  
