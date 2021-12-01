@@ -1,7 +1,4 @@
-
-## The mediapipe-hand ncnn Android demo  
-
-## The demo of [Mediapipe Hand](https://google.github.io/mediapipe/solutions/hands)  infer by ncnn  
+## The Android demo of [Mediapipe Hand](https://google.github.io/mediapipe/solutions/hands)  infer by ncnn  
 
 ## Please enjoy the mediapipe hand demo on ncnn
 
