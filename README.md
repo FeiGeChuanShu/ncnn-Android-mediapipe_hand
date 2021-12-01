@@ -1,7 +1,7 @@
 
 ## The mediapipe-hand ncnn Android demo  
 
-The demo of **Mediapipe Hand**  infer by ncnn
+The demo of [Mediapipe Hand](https://google.github.io/mediapipe/solutions/hands)  infer by ncnn
 
 https://github.com/Tencent/ncnn
 https://github.com/nihui/opencv-mobile
